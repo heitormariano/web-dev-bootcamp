@@ -1,0 +1,14 @@
+span.test {
+    color: navy;
+    font-weight: bold;
+}
+
+span.test-two {
+    color: darkred;
+    font-weight: bold;
+}
+
+.fit-picture {
+    width: 80px;
+    height: 80px;
+}
