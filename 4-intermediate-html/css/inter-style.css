@@ -8,3 +8,7 @@ img {
     height: 100px;
 }
 
+label#lbl-register {
+    font-weight: bold;
+    font-size: 2rem;
+}
