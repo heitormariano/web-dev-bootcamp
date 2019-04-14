@@ -1,4 +1,4 @@
-h2 {
+h2.play {
     color: blue;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -17,4 +17,18 @@ table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
     padding: 4px;
+}
+
+/* css colour names website: http://colours.neilorangepeel.com/ */
+
+h1.test-a {
+    color: #9c1d1d;
+}
+
+h2.test-b {
+    color: #3434b9;
+}
+
+h3.test-c{
+    color: #269426;
 }
