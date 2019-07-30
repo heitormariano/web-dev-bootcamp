@@ -1,0 +1,17 @@
+form.form-validation {
+    display: table;
+}
+
+div.form-validation {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+label {
+    padding-right: 5px;
+}

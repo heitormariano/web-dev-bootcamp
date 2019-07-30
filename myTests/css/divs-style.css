@@ -1,0 +1,16 @@
+.technology {
+    border: ridge 10px #ee2e2e;
+    background-color: #070202;
+    padding: .5rem;
+    width: 50%;
+}
+
+.technology img {
+    width: 100%;
+}
+
+.technology p {
+    color: #ffffff;
+    font: small-caps bold 1.2rem serif;
+    text-align: center;
+}

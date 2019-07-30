@@ -1,0 +1,17 @@
+table {
+    display: inline-table;
+    border: dashed 5px #2d852d;
+    margin: 1em;
+}
+
+th, td {
+    border: dashed 3px #a74545;
+}
+
+.separate {
+    border-collapse: separate;
+}
+
+.collapse {
+    border-collapse: collapse;
+}
