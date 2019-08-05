@@ -5,9 +5,9 @@ h1.test-a {
 }
 
 h2.test-b {
-    color: #3434b9;
+    color: rgb(52, 52, 185);
 }
 
 h3.test-c {
-    color: #269426;
+    color: rgba(38, 148, 38, .4);
 }
