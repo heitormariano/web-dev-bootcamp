@@ -1,0 +1,15 @@
+div {
+    background-color: #f0f8ff;
+    border: 1px solid #1365ad;
+}
+
+.line {
+    text-decoration: line-through;
+}
+
+#test-01 {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
+    color: #7e0505;
+}
