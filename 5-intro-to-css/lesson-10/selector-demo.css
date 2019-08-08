@@ -1,0 +1,29 @@
+ul {
+    border: 1px solid rgba(88, 88, 158, 0.6);
+}
+
+ul li {
+    font-style: italic;
+}
+
+h3+ol {
+    list-style-type: upper-roman;
+}
+
+a:link {
+    color: rgb(189, 95, 28);
+}
+
+a:visited {
+    color: red;
+}
+
+a[href="https://github.com/github"] {
+    background-color: antiquewhite;
+}
+
+/* nth-of-type(n) pseudo class selector */
+
+li:nth-of-type(2) {
+    background-color: rgba(135, 173, 245, 0.623);
+}
