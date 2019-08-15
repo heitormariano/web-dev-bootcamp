@@ -1,0 +1,16 @@
+form.form-info {
+    display: table;
+}
+
+div.form-info {
+    display: table-row;
+}
+
+div.form-info>label, input {
+    display: table-cell;
+    margin-bottom: 2px;
+}
+
+div.form-info>label {
+    padding-right: 5px;
+}
