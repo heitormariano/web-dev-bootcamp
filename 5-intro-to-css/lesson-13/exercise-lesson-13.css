@@ -51,7 +51,6 @@ input {
 
 div p {
     font-size: 20px;
-    ;
 }
 
 input[type="text"] {
@@ -68,7 +67,15 @@ div:nth-of-type(3)>p:nth-of-type(2) {
 }
 
 div:nth-of-type(2) em {
-    color: rgb(145, 30, 30);
+    color: rgb(238, 64, 64);
+    border: 3px solid black;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+div:nth-of-type(3) em {
+    color: white;
+    border: 3px solid red;
     font-size: 20px;
     font-weight: bold;
 }
